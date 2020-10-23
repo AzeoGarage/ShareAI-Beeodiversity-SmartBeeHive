@@ -1,0 +1,1 @@
+All data are stored on a DataLake on Azure
