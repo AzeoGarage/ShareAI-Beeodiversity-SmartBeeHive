@@ -1,1 +1,1 @@
-# ShareAI-Beeodiversity-SmartBeeHive
+# ShareAI-BeeOdiversity-SmartBeeHive
