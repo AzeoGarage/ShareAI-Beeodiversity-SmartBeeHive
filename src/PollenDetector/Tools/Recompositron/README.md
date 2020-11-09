@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction 
 Recompositron is a tool to generate batch pollen images as they could be observed under a microscope. The generated images can then be used to train an object detection AI model to detect and classify pollens.
 
 ![Recompositron interface](Recompositron.jpg "Recompositron Interface")
@@ -7,7 +7,7 @@ The Recompositron tool uses black and white clipped pollens images to generate r
 
 ![Output image with bounding boxes](OutputImageWithBB.jpg "Output image with bounding boxes")
 
-# Getting Started
+# Getting Started
 In order to use the Recompositron tool:
 ## Setup
 1.  Clone this repository
