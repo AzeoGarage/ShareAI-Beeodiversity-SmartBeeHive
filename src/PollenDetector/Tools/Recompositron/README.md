@@ -23,4 +23,4 @@ In order to use the Recompositron tool:
 
 ## Known issues
 1.  The current version of the Recompositron has no visual feedback on the tasks that are performed for image preparation and image generation. You can monitor progress by checking the **rotated_images** and **augmented_image** folders for the image preparation task, and the **output_images** folder for the image generation task.
-2.  The "Scale an layout" Windows display setting may interfere with the Recompositron. If it is not set to 100%, pollen images may appear truncated.
+2.  The "Scale and layout" Windows display setting may interfere with the Recompositron. If it is not set to 100%, pollen images may appear truncated.
