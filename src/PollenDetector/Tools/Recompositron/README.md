@@ -21,4 +21,6 @@ In order to use the Recompositron tool:
 5.  If you are satisfied with the result, select the amount of images you wish to generate and click the **Generate images** button. It is recommended not to set the amount of images to generate to a too large number as the tool will likely crash (1000 should be fine). You can always generate additional images by clicking the button again once the previous generation step is done.
 6.  All the generated images and their corresponding XML files can be found in the **output_images** folder.
 
-The current version of the Recompositron has no visual feedback on the tasks that are performed for image preparation and image generation. You can monitor progress by checking the **rotated_images** and **augmented_image** folders for the image preparation task, and the **output_images** folder for the image generation task.
+## Known issues
+1.  The current version of the Recompositron has no visual feedback on the tasks that are performed for image preparation and image generation. You can monitor progress by checking the **rotated_images** and **augmented_image** folders for the image preparation task, and the **output_images** folder for the image generation task.
+2.  The "Scale an layout" Windows display setting may interfere with the Recompositron. If it is not set to 100%, pollen images may appear truncated.
