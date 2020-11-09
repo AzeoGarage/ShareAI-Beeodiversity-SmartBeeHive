@@ -13,7 +13,7 @@ The project is divided into 2 parts:
 1. **Optical engineering:** To be able to get a "usable" image of the pollens by microscopy (x100) with the hive's conditions (luminosity, etc.). 
 2. **Machine Learning:** Analyse an image and recognise the pollens, by using classification or object detection. 
 
-## Defining jobs :  
+## Defining jobs :
 IoT hatch 
 Studying microscopy solutions 
 Development of a prototype trap door (pollen collection and shooting) 
