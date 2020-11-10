@@ -43,3 +43,6 @@ Shared biodiversity data (access only to stakeholders)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Acces Smart-Beehive data
+If you would like to participate in the project and access its data, you can send a data access request [here](https://forms.office.com/Pages/ResponsePage.aspx?id=BSAOPIRYz0qLJb5eXJq9iCUUwA82yTlAiweG1ZvntqlUNTY1SFNMTEJUVkY1MEhUTjVZOUZVMUdRTSQlQCN0PWcu).
